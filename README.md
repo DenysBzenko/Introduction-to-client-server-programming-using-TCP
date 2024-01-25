@@ -20,7 +20,7 @@ git clone https://github.com/DenysBzenko/Introduction-to-client-server-programmi
 
 ### Server
 
-The server automatically starts listening for incoming connections on the port specified in the code (for example, 12345).
+The server automatically starts listening for incoming connections on the port specified in the code ( 12345).
 
 ### Client 
 
