@@ -1,7 +1,7 @@
-# Introduction-to-client-server-programming-using-TCP
+ # Introduction-to-client-server-programming-using-TCP
 This project implements a simple TCP-based file server and a corresponding client written in C++ using the WinSock API. The server and client use sockets to exchange data and perform basic file operations, such as browsing the file list, uploading, sending, deleting, and retrieving file information.
 
-##Functions
+## Functions
 
 - **View file list**: The client can get a list of all files in a specific directory on the server.
 - **File Download**: The client can download a file from the server.
@@ -9,12 +9,12 @@ This project implements a simple TCP-based file server and a corresponding clien
 - **File deletion**: The client can delete a file on the server.
 - **Get file information**: The client can get information about when it was last modified, how much it weighs.
 
-##How do you get started with this project?
+## How do you get started with this project?
 
 ### Dowload 
 
 ```bash
-git clone 
+git clone https://github.com/DenysBzenko/Introduction-to-client-server-programming-using-TCP.git
 ```
 -And just compile the code
 
